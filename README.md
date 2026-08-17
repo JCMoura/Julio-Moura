@@ -1,5 +1,5 @@
 # Julio-Moura
-Olá! Eu sou Julio Moura, Engenheiro da Computação com forte base em Ciência da Computação, Matemática e Estatística. 
+Olá! Eu sou Julio Moura, Engenheiro da Computação e Matemático com forte base em Ciência da Computação e Estatística. 
 
 💡 Apaixonado por tecnologia, análise de dados, algoritmos e resolução de problemas complexos.
 🔬 Interesse especial em inteligência artificial, modelagem estatística, sistemas autônomos e aplicações financeiras quantitativas.
